@@ -1,0 +1,29 @@
+{
+  "name": "team-profile-generator-challenge-10",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mbronstein1/Team-Profile-Generator-Challenge-10.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mbronstein1/Team-Profile-Generator-Challenge-10/issues"
+  },
+  "homepage": "https://github.com/mbronstein1/Team-Profile-Generator-Challenge-10#readme",
+  "devDependencies": {
+    "jest": "^24.9.0"
+  },
+  "dependencies": {
+    "inquirer": "^8.2.4"
+  }
+}
