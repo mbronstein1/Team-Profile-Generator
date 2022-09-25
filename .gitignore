@@ -104,3 +104,5 @@ typings/
 
 # Image templates
 images
+
+html_template.html
