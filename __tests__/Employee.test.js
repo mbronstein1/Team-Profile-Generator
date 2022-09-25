@@ -1,3 +1,5 @@
+//Test files were provided by the instructional staff
+
 const Employee = require("../lib/Employee");
 
 test("Can instantiate Employee instance", () => {

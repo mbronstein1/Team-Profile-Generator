@@ -1,3 +1,5 @@
+//Test files were provided by the instructional staff
+
 const Engineer = require("../lib/Engineer");
 
 test("Can set GitHUb account via constructor", () => {

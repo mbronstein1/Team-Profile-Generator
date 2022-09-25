@@ -1,3 +1,5 @@
+//Test files were provided by the instructional staff
+
 const Intern = require("../lib/Intern");
 
 test("Can set school via constructor", () => {
