@@ -1,7 +1,7 @@
 # Team-Profile-Generator-Challenge-10
 
 ## Description
-This is the tenth challenge in the Northwestern Coding Bootcamp (Module 10).
+This is the tenth challenge in the Northwestern Coding Bootcamp (Module 10). We were required to dynamically generate an html file of cards containing information about team member profiles based on CLI user input. We used the inquirer npm to create prompts in the terminal and implemented new course material from the four pillars of Object Oriented Programming, including modularization (ENCAPSULATION) and constructor functions (and classes/subclasses) (INHERITANCE).
 
 ## Link to video walkthrough
 [Live Video Walkthrough](https://youtu.be/youf67Oe8Qc)
