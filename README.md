@@ -4,7 +4,7 @@
 This is the tenth challenge in the Northwestern Coding Bootcamp (Module 10).
 
 ## Link to video walkthrough
-[Live Video Walkthrough](https://drive.google.com/file/d/1bRq_ay0APagB4olmrZXhEdC4MnW46QCO/view)
+[Live Video Walkthrough](https://youtu.be/youf67Oe8Qc)
 
 ## Screenshot
 ![Webpage Screenshot](./images/Screen%20Shot%202022-09-27%20at%2012.24.44%20PM.png)
