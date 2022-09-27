@@ -16,7 +16,6 @@ const init = () => { //execute initialization w/ prompt asking for job title (va
             }
         ])
         .then((ans) => {
-            console.log(ans)
             if (ans.title === "I do not work here") {
                 console.log("\x1b[33m Sorry for the confusion. Have a nice day!");//notification in yellow
                 process.exit(); //same as commmand+c, exits process
@@ -205,7 +204,7 @@ const managerInfo = (ans) => { //Create new object from Manager class
 
 const engineerInfo = (ans) => { //Create new object from Engineer class
     let { name, id, email, github } = ans;
-    let engineer = new Engineer(name, +id, email, `https://www.github.com/${github}`);
+    let engineer = new Engineer(name, +id, email, github);
     allEmployees.push(engineer); //WILL EVENTUALLY CALL readyToRender() FUNCTION BELOW WITH renderCard() METHOD
 }
 
